@@ -1,2 +1,1 @@
-This is a second file. 3
-This is the last file in the project right now.
+file to delete #2
